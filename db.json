@@ -208,52 +208,10 @@
             "owner": 24
         },
         {
-            "id": 13,
-            "name": "Rua Tavares de Macedo 10 (esquina com Rua Miguel de Frias)",
-            "address": "Rua Dr. Tavares de Macedo, 10",
-            "owner": 7
-        },
-        {
-            "id": 14,
-            "name": "Diversos borrachudos no asfalto. Rua Miguel de Frias altura do número 270",
-            "address": "R. Miguel de Frias, 270",
-            "owner": 21
-        },
-        {
-            "id": 15,
-            "name": "um esgoto a céu aberto cheio de lixo dentro, não sei se é bueiro devia ter uma tampa quadrada de ferro",
-            "address": "Rua Cachambi, 554",
-            "owner": 19
-        },
-        {
-            "id": 16,
-            "name": "Bueiro sem tampa. Rua Marquês de Paraná 312",
-            "address": "R. Marquês de Paraná, 312",
-            "owner": 10
-        },
-        {
             "id": 17,
             "name": "Urgente. Vazamento de água na Rua Dr Celestino altura do número 216",
             "address": "R. Dr. Celestino, 216",
             "owner": 17
-        },
-        {
-            "id": 18,
-            "name": "a estradas  que dá fazenda Manoel Rodrigues que dá acesso a novo paraíso",
-            "address": "Unnamed Road, null",
-            "owner": 5
-        },
-        {
-            "id": 19,
-            "name": "Urgente. Esgoto vazando na Rua Ismael Coutinho (esquina com Rua Dr Celestino)",
-            "address": "R. Prof. Ismael Coutinho, 1-71",
-            "owner": 25
-        },
-        {
-            "id": 20,
-            "name": "Tampa de bueiro desnivelado. Rua Dr Celestino 42",
-            "address": "R. Dr. Celestino, 42",
-            "owner": 12
         },
         {
             "id": 21,
